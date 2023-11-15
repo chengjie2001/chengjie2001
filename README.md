@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm chengjie</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 📝 I regularly write articles on [chengjie.info](www.chengjie.info)
-
 - 📫 How to reach me **3330995315@qq.com**
 
 <p align="left">
